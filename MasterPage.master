@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+﻿<%@ master language="C#" autoeventwireup="true" inherits="MasterPage, App_Web_gdw4k5la" %>
 
 <!DOCTYPE html>
 
